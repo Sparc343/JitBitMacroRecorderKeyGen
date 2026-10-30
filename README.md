@@ -1,3 +1,6 @@
+This project is based on the following: It is not just a "clone" I fixed it to compile properly!
+
+
 # Ladron
 <img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-brightgreen"> <img alt="License GPL 3.0" src="https://img.shields.io/badge/license-GPL%203.0-blue">
 
