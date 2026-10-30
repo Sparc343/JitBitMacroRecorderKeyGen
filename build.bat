@@ -1,0 +1,1 @@
+g++ -O2 -static-libgcc -static-libstdc++ -I./libtomcrypt/src/headers src/*.cpp ./lib/libtomcrypt.a ./lib/libtommath.a -o ./bin/KeyGen.exe
